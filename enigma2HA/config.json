@@ -1,0 +1,10 @@
+{
+  "name": "enigma2HA",
+  "version": "0.1",
+  "slug": "enigma2HA",
+  "description": "Add Support for your Enigma2 Set-Top Box to hass.io",
+  "startup": "before",
+  "boot": "auto",
+  "options": {},
+  "schema": {}
+}
